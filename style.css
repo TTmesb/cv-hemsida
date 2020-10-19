@@ -5,10 +5,20 @@ h2 {
     border-bottom: 30px solid orange;
 }
 body {
-    background-image: url(/cowboybak.jpg);
+    background-image: url();
     background-size: cover;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 2.5%;
-    color: hotpink;
+    color: black;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.logo {
+    width: 25%;
+    float: right;
+    padding: 155px;
+    position: relative;
+}
+b {
+    font-size: 20px;
 }
