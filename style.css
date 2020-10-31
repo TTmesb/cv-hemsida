@@ -10,7 +10,13 @@ h2 {
     font-variant-caps: all-petite-caps;
 }
 .banner {
-    
+    margin-bottom: 100px;
+    margin-top: 50px;
+    max-width: 80%;
+    width: 2000px;
+    height: 550px;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 body {
     background-color: #E5E5F7;
@@ -26,7 +32,6 @@ body {
 .logo {
     width: 25%;
     float: right;
-
 }
 b {
     font-size: 20px;
