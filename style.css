@@ -18,6 +18,14 @@ h2 {
     padding-left: 10%;
     padding-right: 10%;
 }
+.pil {
+    width: 20px;
+    height: auto;
+    float: right;
+    position: fixed;
+    right: 5%;
+    
+}
 body {
     background-color: #E5E5F7;
     opacity: 1;
@@ -52,3 +60,4 @@ ul {
     margin-top: 0;
     margin-block-end: 1;
 }
+
